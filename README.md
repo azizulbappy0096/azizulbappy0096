@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I build and break stuff**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=azizulbappy0096&show_icons=true&locale=en" alt="azizulbappy0096" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=azizulbappy0096&show_icons=true&theme=transparent" alt="azizulbappy0096" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azizulbappy0096&show_icons=true&locale=en&layout=compact" alt="azizulbappy0096" /></p>
 <br />
 
