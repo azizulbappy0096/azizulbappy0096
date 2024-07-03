@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azizul Bappy</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <br />
-<p align="left"> <a href="https://twitter.com/bappy_azizul" target="blank"><img src="https://img.shields.io/twitter/follow/bappy_azizul?logo=twitter&style=for-the-badge" alt="bappy_azizul" /></a> </p>
+
 
 - 🔭 I’m currently working **As a freelancer on PeoplePerHour**
 
