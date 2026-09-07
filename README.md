@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for **work opportunities**
 
-- 👨‍💻 All of my projects are available at [https://azizulbappy.netlify.app](https://azizulbappy.netlify.app)
+- 👨‍💻 All of my projects are available at [https://azizulbappy.vercel.app](https://azizulbappy.vercel.app)
 
 - 💬 Ask me about **React & JavaScript**
 
