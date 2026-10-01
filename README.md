@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Azizul Bappy</h1>
-<h3 align="center">A Full-Stack Engineer from Bangladesh</h3>
+<h3 align="center">A Full-Stack Developer from Bangladesh</h3>
 <br />
 
-- 🔭 I’m currently working as a **Full-Stack Engineer at ArtTactic** and as a **Freelance Web Developer**
+- 🔭 I’m currently working as a **Freelance Full-Stack Developer at ArtTactic** and as a **Freelance Web Developer**
 
 - 🌱 I’m currently focused on **Scalable Architecture, Monorepos (Turborepo), and AI Integrations**
 
